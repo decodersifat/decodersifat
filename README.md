@@ -18,43 +18,51 @@
 <p align="center">
   <a href="https://linkedin.com/in/decodersifat"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="https://kaggle.com/decodersifat"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="30"/></a>
-  <a href="https://fb.com/sifat404"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
-  <a href="https://www.youtube.com/c/inqbic"><img src="https://skillicons.dev/icons?i=youtube" height="40"/></a>
   <a href="https://codeforces.com/profile/iamsifathossain"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" height="30"/></a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools  
+## 🛠️ Tech Stack  
 
+### 📝 Languages  
 <p align="center">
-  <!-- Main stack -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,express,django,nodejs,python,mysql,postgresql,mongodb,redis" height="45"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css" height="45"/>
 </p>
 
+### ⚡ Frameworks & Libraries  
 <p align="center">
-  <!-- DevOps & Cloud -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,express,django,nodejs" height="45"/>
+</p>
+
+### 🗄️ Databases  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" height="45"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" height="30"/>
+</p>
+
+### ☁️ DevOps & Cloud  
+<p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,aws,gcp" height="45"/>
 </p>
 
+### 🤖 AI / ML & Data Science  
 <p align="center">
-  <!-- AI/ML & Data -->
   <img src="https://skillicons.dev/icons?i=tensorflow" height="45"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Seaborn-2E4C6D?style=for-the-badge&logo=python&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" height="30"/>
 </p>
 
+### 🎨 Design Tools  
 <p align="center">
-  <!-- Design -->
-  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" height="30"/>
   <img src="https://skillicons.dev/icons?i=figma" height="45"/>
+  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" height="30"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats  
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=decodersifat&show_icons=true&theme=tokyonight" height="160"/>
@@ -67,7 +75,7 @@
 
 ---
 
-### 🐍 Contribution Snake  
+## 🐍 Contribution Snake  
 <p align="center">
   <img src="https://raw.githubusercontent.com/decodersifat/decodersifat/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
