@@ -18,7 +18,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/decodersifat"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="https://kaggle.com/decodersifat"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="30"/></a>
-  <a href="https://codeforces.com/profile/iamsifathossain"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" height="30"/></a>
+  <a href="https://codeforces.com/profile/iamsifat404"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" height="30"/></a>
 </p>
 
 ---
@@ -70,12 +70,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=decodersifat&theme=tokyonight" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=decodersifat&theme=tokyonight" height="180"/>
 </p>
 
 ---
 
 ## 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/decodersifat/decodersifat/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/decodersifat/decodersifat/output/github-snake.svg" alt="snake animation"/>
 </p>
