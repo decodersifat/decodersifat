@@ -77,7 +77,3 @@
 
 ---
 
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/decodersifat/decodersifat/output/github-snake.svg" alt="snake animation"/>
-</p>
