@@ -14,14 +14,26 @@
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Connect with Me  
 
-| Platform | Link |
-|----------|------|
-| Facebook | <a href="https://facebook.com/in/decodersifat"><img src="https://img.icons8.com/?size=100&id=118497&format=png&color=000000" height="40"/></a> |
-| LinkedIn | <a href="https://linkedin.com/in/decodersifat"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a> |
-| Kaggle | <a href="https://kaggle.com/decodersifat"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="30"/></a> |
-| Codeforces | <a href="https://codeforces.com/profile/iamsifat404"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" height="30"/></a> |
+<p align="center">
+  <a href="https://facebook.com/in/decodersifat" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=118497&format=png&color=000000" height="40" alt="Facebook"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/decodersifat" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://kaggle.com/decodersifat" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="30" alt="Kaggle"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/iamsifat404" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" height="30" alt="Codeforces"/>
+  </a>
+</p>
+
 
 
 ---
