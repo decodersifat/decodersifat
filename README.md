@@ -8,7 +8,9 @@ I also have a growing interest in  AI/ML, and Data Science, exploring data-drive
   <img src="https://komarev.com/ghpvc/?username=decodersifat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 🌱 Building and learning with **Express · React · Django · Next.js · Three.js**  
+- 🌱 I'm Currently Working:
+   -- ** Building Full Stack Delivery System using *** React · Express · MongoDB *** **
+   -- ** A courier service backend using *** NestJs · TypeOrm & Other supporting libraries *** **
 - 📫 Contact: **user.sifathossain@gmail.com**  
 - 📄 [Resume](https://drive.google.com/file/d/12O0xoJU_gXBNibwFAW8Arv7CLIvoz_UK/view)
 
