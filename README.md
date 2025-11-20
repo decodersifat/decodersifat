@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm MD. Sifat Hossain</h1>
-<h3 align="center">💻 Full-stack Engineer | Express · React · Django · Next.js | Passionate about AI/ML 🤖</h3>
+<h3 align="center">💻 Full-stack Engineer | Express · React · Django · Next.js | AI/ML Enthusiast 🤖</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=decodersifat&label=Profile%20views&color=0e75b6&style=flat" alt="decodersifat" />
+  <img src="https://komarev.com/ghpvc/?username=decodersifat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-### 🚀 About Me  
-- 🌱 Currently learning and building with **Express · React · Django · Next.js · Three.js & more...**  
-- 📫 Reach me at **user.sifathossain@gmail.com**  
-- 📄 [View My Resume](https://drive.google.com/file/d/12O0xoJU_gXBNibwFAW8Arv7CLIvoz_UK/view)
+### 🚀 About Me
+- 🌱 Building and learning with **Express · React · Django · Next.js · Three.js**  
+- 📫 Contact: **user.sifathossain@gmail.com**  
+- 📄 [Resume](https://drive.google.com/file/d/12O0xoJU_gXBNibwFAW8Arv7CLIvoz_UK/view)
 
----
 
 ### 🌐 Connect with Me  
 
