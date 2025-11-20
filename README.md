@@ -6,8 +6,8 @@
 </p>
 Hi, I'm MD.Sifat Hossain, A passionate MERN Stack Developer focused on building efficient and scalable web applications. Skilled in React.js, Node.js, MongoDB, and Express, with hands-on experience in NestJS, FastAPI, and Django for backend engineering.
 I also have a growing interest in  AI/ML, and Data Science, exploring data-driven insights and experimenting with models. I enjoy learning new technologies, solving problems, and continuously improving to stay ahead in tech.
-<br/>
 
+<p>&nbsp;</p>
 
 - 🌱 **Currently Working On:**  
   - Building Full-Stack Delivery System using ***React · Express · MongoDB***  
@@ -15,25 +15,25 @@ I also have a growing interest in  AI/ML, and Data Science, exploring data-drive
 - 📫 Reach Me Out : **user.sifathossain@gmail.com**  
 - 📄 [Resume](https://drive.google.com/file/d/12O0xoJU_gXBNibwFAW8Arv7CLIvoz_UK/view)
 
-<br/>
+
 
 ## 🌐 Connect with Me  
 
 <p align="center">
   <a href="https://facebook.com/in/decodersifat" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="35" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/-Facebook-333333?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook" height="28"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://linkedin.com/in/decodersifat" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" height="28"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://kaggle.com/decodersifat" target="_blank">
-    <img src="https://skillicons.dev/icons?i=kaggle" height="35" alt="Kaggle"/>
+    <img src="https://img.shields.io/badge/-Kaggle-333333?style=for-the-badge&logo=kaggle&logoColor=20BEFF" alt="Kaggle" height="28"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://codeforces.com/profile/iamsifat404" target="_blank">
-    <img src="https://skillicons.dev/icons?i=codeforces" height="35" alt="Codeforces"/>
+    <img src="https://img.shields.io/badge/-Codeforces-333333?style=for-the-badge&logo=codeforces&logoColor=445F9D" alt="Codeforces" height="28"/>
   </a>
 </p>
 
