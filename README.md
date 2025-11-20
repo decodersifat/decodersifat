@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm MD. Sifat Hossain</h1>
-<h3 align="center">💻 Full-stack Engineer | Express · React · Django · Next.js | AI/ML Enthusiast 🤖</h3>
+### 🚀 About Me
+
+<h5 align="center"> Full-stack Developer | MERN · Nest.js · FastAPI · Django  | AI/ML Enthusiast </h5>
+Hi, I'm MD.Sifat Hossain, A passionate MERN Stack Developer focused on building efficient and scalable web applications. Skilled in React.js, Node.js, MongoDB, and Express, with hands-on experience in NestJS, FastAPI, and Django for backend engineering.
+I also have a growing interest in  AI/ML, and Data Science, exploring data-driven insights and experimenting with models. I enjoy learning new technologies, solving problems, and continuously improving to stay ahead in tech.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=decodersifat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
----
-
-### 🚀 About Me
 - 🌱 Building and learning with **Express · React · Django · Next.js · Three.js**  
 - 📫 Contact: **user.sifathossain@gmail.com**  
 - 📄 [Resume](https://drive.google.com/file/d/12O0xoJU_gXBNibwFAW8Arv7CLIvoz_UK/view)
@@ -34,8 +34,6 @@
 </p>
 
 
-
----
 ## 🛠️ Tech Stack & Tools Overview
 
 | **Skills Overview** | **Technologies** |
@@ -49,14 +47,11 @@
 | **Design Tools** | ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma) ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobexd) |
 
 
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 | GitHub Stats | Top Languages | Streaks |
 |--------------|---------------|---------|
 | <img src="https://github-readme-stats.vercel.app/api?username=decodersifat&show_icons=true&theme=tokyonight" height="160"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=decodersifat&layout=compact&theme=tokyonight" height="160"/> | <img src="https://streak-stats.demolab.com?user=decodersifat&theme=tokyonight" height="180"/> |
 
 
----
 
