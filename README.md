@@ -6,7 +6,7 @@
 </p>
 Hi, I'm MD.Sifat Hossain, A passionate MERN Stack Developer focused on building efficient and scalable web applications. Skilled in React.js, Node.js, MongoDB, and Express, with hands-on experience in NestJS, FastAPI, and Django for backend engineering.
 I also have a growing interest in  AI/ML, and Data Science, exploring data-driven insights and experimenting with models. I enjoy learning new technologies, solving problems, and continuously improving to stay ahead in tech.
-<br>
+<br/>
 
 
 - 🌱 **Currently Working On:**  
@@ -15,26 +15,28 @@ I also have a growing interest in  AI/ML, and Data Science, exploring data-drive
 - 📫 Reach Me Out : **user.sifathossain@gmail.com**  
 - 📄 [Resume](https://drive.google.com/file/d/12O0xoJU_gXBNibwFAW8Arv7CLIvoz_UK/view)
 
-<br>
+<br/>
+
 ## 🌐 Connect with Me  
 
 <p align="center">
   <a href="https://facebook.com/in/decodersifat" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=118497&format=png&color=000000" height="40" alt="Facebook"/>
+    <img src="https://skillicons.dev/icons?i=facebook" height="35" alt="Facebook"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/decodersifat" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://kaggle.com/decodersifat" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="30" alt="Kaggle"/>
+    <img src="https://skillicons.dev/icons?i=kaggle" height="35" alt="Kaggle"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://codeforces.com/profile/iamsifat404" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" height="30" alt="Codeforces"/>
+    <img src="https://skillicons.dev/icons?i=codeforces" height="35" alt="Codeforces"/>
   </a>
 </p>
+
 
 
 ## 🛠️ Tech Stack & Tools Overview
