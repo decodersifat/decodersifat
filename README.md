@@ -57,9 +57,8 @@ I also have a growing interest in  AI/ML, and Data Science, exploring data-drive
 |--------------|---------------|---------|
 | <img src="https://github-readme-stats.vercel.app/api?username=decodersifat&show_icons=true&theme=tokyonight" height="160"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=decodersifat&layout=compact&theme=tokyonight" height="160"/> | <img src="https://streak-stats.demolab.com?user=decodersifat&theme=tokyonight" height="180"/> |
 
-<!-- For canvas -->
-<iframe src="https://abozanona.github.io/pacman-contribution-graph/embeded/canvas.html?username=yourusername&platform=github" 
-    width="800" height="600" frameborder="0"></iframe>
+
+## Contribution
 <!-- For SVG -->
 <img src="https://pacman.abozanona.me?username=decodersifat" />
 
