@@ -24,91 +24,18 @@
 </p>
 
 ---
-
 ## 🛠️ Tech Stack & Tools Overview
 
-<details>
-<summary>📝 Languages</summary>
+| **Skills Overview** | **Technologies** |
+|----------------------|------------------|
+| **Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3) |
+| **Frontend Development** | ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss) |
+| **Backend Development** | ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express) ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs) ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql) ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis) ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite) |
+| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes) ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws) ![GCP](https://img.shields.io/badge/-GCP-333333?style=flat&logo=google-cloud) ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) |
+| **AI / ML & Data Science** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-333333?style=flat&logo=scikitlearn) ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas) ![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=python) |
+| **Design Tools** | ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma) ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobexd) |
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=for-the-badge&logo=typescript) 
-![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python) 
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=html5) 
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=for-the-badge&logo=css3)
-
-</details>
-
-<details>
-<summary>⚡ Frontend Development</summary>
-
-![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react) 
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=for-the-badge&logo=next.js) 
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=for-the-badge&logo=tailwindcss)
-
-</details>
-
-<details>
-<summary>🛠️ Backend Development</summary>
-
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js) 
-![Express.js](https://img.shields.io/badge/-Express.js-333333?style=for-the-badge&logo=express) 
-![NestJS](https://img.shields.io/badge/-NestJS-333333?style=for-the-badge&logo=nestjs) 
-![Django](https://img.shields.io/badge/-Django-333333?style=for-the-badge&logo=django)
-
-</details>
-
-<details>
-<summary>🗄️ Databases</summary>
-
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql) 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=for-the-badge&logo=postgresql) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb) 
-![Redis](https://img.shields.io/badge/-Redis-333333?style=for-the-badge&logo=redis) 
-![SQLite](https://img.shields.io/badge/-SQLite-333333?style=for-the-badge&logo=sqlite)
-
-</details>
-
-<details>
-<summary>☁️ DevOps & Cloud</summary>
-
-![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker) 
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=for-the-badge&logo=kubernetes) 
-![AWS](https://img.shields.io/badge/-AWS-333333?style=for-the-badge&logo=amazon-aws) 
-![GCP](https://img.shields.io/badge/-GCP-333333?style=for-the-badge&logo=google-cloud) 
-![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git) 
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
-
-</details>
-
-<details>
-<summary>🤖 AI / ML & Data Science</summary>
-
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=for-the-badge&logo=tensorflow) 
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-333333?style=for-the-badge&logo=scikitlearn) 
-![Pandas](https://img.shields.io/badge/-Pandas-333333?style=for-the-badge&logo=pandas) 
-![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=for-the-badge&logo=python)
-
-</details>
-
-<details>
-<summary>🎨 Design Tools</summary>
-
-![Figma](https://img.shields.io/badge/-Figma-333333?style=for-the-badge&logo=figma) 
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=for-the-badge&logo=adobexd)
-
-</details>
-
-<details>
-<summary>🛠️ Tools & Utilities</summary>
-
-![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=for-the-badge&logo=visual-studio-code) 
-![Postman](https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=postman) 
-![Linux](https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=linux) 
-![ZSH](https://img.shields.io/badge/-ZSH-333333?style=for-the-badge&logo=zsh) 
-![Prisma](https://img.shields.io/badge/-Prisma-333333?style=for-the-badge&logo=prisma) 
-![TypeORM](https://img.shields.io/badge/-TypeORM-333333?style=for-the-badge&logo=typeorm)
-
-</details>
 
 ---
 
