@@ -39,16 +39,12 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=decodersifat&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=decodersifat&layout=compact&theme=tokyonight" height="160"/>
-</p>
+| GitHub Stats | Top Languages | Streaks |
+|--------------|---------------|---------|
+| <img src="https://github-readme-stats.vercel.app/api?username=decodersifat&show_icons=true&theme=tokyonight" height="160"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=decodersifat&layout=compact&theme=tokyonight" height="160"/> | <img src="https://streak-stats.demolab.com?user=decodersifat&theme=tokyonight" height="180"/> |
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=decodersifat&theme=tokyonight" height="180"/>
-</p>
 
 ---
 
