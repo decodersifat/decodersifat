@@ -1,4 +1,4 @@
-### 🚀 About Me
+## 🚀 About Me
 
 <h5 align="center"> Full-stack Developer | MERN · Nest.js · FastAPI · Django  | AI/ML Enthusiast </h5>
 Hi, I'm MD.Sifat Hossain, A passionate MERN Stack Developer focused on building efficient and scalable web applications. Skilled in React.js, Node.js, MongoDB, and Express, with hands-on experience in NestJS, FastAPI, and Django for backend engineering.
@@ -13,7 +13,7 @@ I also have a growing interest in  AI/ML, and Data Science, exploring data-drive
 - 📄 [Resume](https://drive.google.com/file/d/12O0xoJU_gXBNibwFAW8Arv7CLIvoz_UK/view)
 
 
-### 🌐 Connect with Me  
+## 🌐 Connect with Me  
 
 <p align="center">
   <a href="https://facebook.com/in/decodersifat" target="_blank">
